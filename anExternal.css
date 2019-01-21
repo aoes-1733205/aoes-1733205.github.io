@@ -1,0 +1,14 @@
+ table {
+    display: inline-table;
+    border: solid 1px;
+    border-color: navy;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+p {
+    display: inline;
+    border: solid black;
+    float: right;
+    padding: 20px
+}
